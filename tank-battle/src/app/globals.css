@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+:root {
+  --foreground: #ffffff;
+  --background: #0a0a0a;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: 'Courier New', monospace;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
